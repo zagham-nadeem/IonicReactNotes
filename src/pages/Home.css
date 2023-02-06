@@ -1,0 +1,8 @@
+.background{
+    --background: orange;
+    padding: 20px;
+}
+.no-background {
+    --background:none;
+    padding: 20px;
+}
