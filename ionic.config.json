@@ -1,0 +1,7 @@
+{
+  "name": "IonicReactNotes",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
